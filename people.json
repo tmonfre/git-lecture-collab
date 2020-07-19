@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Froggy",
+    "iconUrl": "images/froggy.jpg",
+    "message": "Come visit me in Costa Rica!",
+    "lat_long": [
+      9.6660971,
+      -85.0621176
+    ]
+  },
+  {
+    "name": "Tim",
+    "iconUrl": "images/tim_round.jpg",
+    "message": "Hiking in the High Sierras!",
+    "lat_long": [
+      37.2320967,
+      -118.8578716
+    ]
+  },
+  {
+    "name": "Thomas",
+    "iconUrl": "images/thomas.jpg",
+    "message": "At home in Wisconsin!",
+    "lat_long": [
+      44.572105, -88.119310
+    ]
+  }
+]
