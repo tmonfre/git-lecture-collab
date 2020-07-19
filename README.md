@@ -1,6 +1,6 @@
 # CS 50 Git Lecture Collaboration Exercise
 
-An interactive map loading images and data on each student.
+An interactive map loading images and data on each student. Credit to [Tim Tregubov](https://github.com/timofei7) for this exercise (taken from Dartmouth CS52).
 
 ## Instructions
 
