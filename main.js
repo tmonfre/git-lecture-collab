@@ -42,21 +42,26 @@ var parseJSON = function(text) {
 }
 
 // load members json
-var loadJSONFiles = function(callback) {
+var loadJSONFiles = function(index, accumulator, callback) {
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'people.json');
+    xobj.open('GET', `people-${index}.json`);
     xobj.onreadystatechange = function () {
       if (xobj.readyState == 4 && xobj.status == "200") {
-        var newlist = parseJSON(xobj.responseText);
-        callback(newlist);
+        if (index > 0) {
+          var newlist = parseJSON(xobj.responseText);
+          loadJSONFiles(index - 1, accumulator.concat(newlist), callback);
+        } else {
+          var newlist = parseJSON(xobj.responseText);
+          callback(accumulator.concat(newlist));
+        }
       }
     };
     xobj.send(null);
 };
 
 // load and process members
-loadJSONFiles(function(response) {
+loadJSONFiles(1, [], function(response) {
   var members = response;
 
   Object.keys(members).forEach(function(member) {

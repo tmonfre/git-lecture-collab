@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Thomas",
+        "iconUrl": "images/thomas.jpg",
+        "message": "At home in Wisconsin!",
+        "lat_long": [
+          44.572105, -88.119310
+        ]
+    }
+]
