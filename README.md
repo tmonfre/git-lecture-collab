@@ -54,7 +54,9 @@ python -m SimpleHTTPServer 9000
 
 9. Open a Pull Request to the master branch.
 
-10. Get someone to review and approve it.
+- You may have merge conflicts. If so, stop and let me know. We can demo the merge conflict in front of the class and show how to fix it.
+
+10. Once there are no conflicts with master, get someone in the class to review and approve the PR.
 
 11. Merge to master.
 
