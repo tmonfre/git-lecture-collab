@@ -3,18 +3,19 @@
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "message": "Come visit me in Costa Rica!",
-    "lat_long": [
-      9.6660971,
-      -85.0621176
-    ]
+    "lat_long": [9.6660971, -85.0621176]
   },
   {
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
     "message": "Hiking in the High Sierras!",
-    "lat_long": [
-      37.2320967,
-      -118.8578716
-    ]
+    "lat_long": [37.2320967, -118.8578716]
+  },
+  {
+    "name": "Jack Keane",
+    "iconUrl": "images/jkeane.jpg",
+    "message": "Hello world",
+    "lat_long": [39.640259, -106.370872],
+    "year": "'22"
   }
 ]
