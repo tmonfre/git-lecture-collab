@@ -16,5 +16,15 @@
       37.2320967,
       -118.8578716
     ]
+  },
+  {
+    "name": "Alex Hamel",
+    "iconUrl": "images/alex_facebook.jpg",
+    "message": "Chilling in Vermont!",
+    "lat_long": [
+      44.489893,
+      -73.030644
+    ]
   }
 ]
+
