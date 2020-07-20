@@ -9,7 +9,20 @@
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
     "message": "Hiking in the High Sierras!",
-    "lat_long": [37.2320967, -118.8578716]
+    "lat_long": [
+      37.2320967,
+      -118.8578716
+    ]
+  },
+
+  {
+    "name": "David",
+    "iconUrl": "images/davidkantor.jpg",
+    "message": "Hello everyone!",
+    "lat_long": [
+      40.666328,
+      -73.553253
+    ]
   },
   {
     "name": "Jack Keane",
