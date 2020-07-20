@@ -30,5 +30,11 @@
     "message": "Hello world",
     "lat_long": [39.640259, -106.370872],
     "year": "'22"
+  },
+  {
+    "name": "Jacob Donoghue",
+    "iconUrl": "images/jacobdonoghue.jpeg",
+    "message": "Hello from Washington",
+    "lat_long": [47.596233, -120.661476]
   }
 ]
