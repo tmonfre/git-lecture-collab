@@ -54,8 +54,7 @@
     "name": "Jack Keane",
     "iconUrl": "images/jkeane.jpg",
     "message": "Hello world",
-    "lat_long": [39.640259, -106.370872],
-    "year": "'22"
+    "lat_long": [39.640259, -106.370872]
   },
   {
     "name": "claire",
@@ -91,15 +90,6 @@
       30.1534,
       88.7879
     ]
-  },
-   {
-    "name": "Isabella",
-    "iconUrl": "images/isadart.jpg",
-    "message": "Monterrey!",
-    "lat_long": [
-      25.621047,
-      -100.379030
-    ]
-  },
+  }
 ]
 

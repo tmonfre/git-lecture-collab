@@ -22,7 +22,7 @@
       "lat_long": [
         37.45322, -122.18322
       ]
-  }, 
+    }, 
     {
       "name": "Garrett",
       "iconUrl": "images/garrettJ.jpeg",
@@ -30,13 +30,14 @@
       "lat_long": [
         43.7022928, -72.2895353
       ]
-  	},
+    },
   	{
         "name": "Garrett Scott",
         "iconUrl": "images/garrettscott.jpeg",
         "message": "In Hanover",
         "lat_long": [
           43.7022222, -72.29
+	]
 	}, 
 	{
         "name": "Isa",
@@ -45,5 +46,5 @@
         "lat_long": [
           25.621047, -100.37898
         ]
-    }
+       }
 ]
