@@ -15,6 +15,15 @@
     ]
   },
   {
+    "name": "Alex Hamel",
+    "iconUrl": "images/alex_facebook.jpg",
+    "message": "Chilling in Vermont!",
+    "lat_long": [
+      44.489893,
+      -73.030644
+    ]
+  },
+  {
     "name": "Archita",
     "iconUrl": "images/archita.jpg",
     "message": "In my living room lol!",
@@ -56,6 +65,7 @@
       "37.316770", "-122.036300"
     ]
   },
+
   {
     "name": "Kimberley R",
     "iconUrl": "images/kimr.jpg",
@@ -63,5 +73,15 @@
     "lat_long": [
       "40.712776", "-74.005974"
     ]
-  }
+  },
+  { 
+    "name": "Irene",
+    "iconUrl": "images/irene.jpg",
+    "message": "Tibet!",
+    "lat_long": [
+      30.1534,
+      88.7879
+    ]
+  },
 ]
+
