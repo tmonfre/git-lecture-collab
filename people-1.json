@@ -37,6 +37,13 @@
         "message": "In Hanover",
         "lat_long": [
           43.7022222, -72.29
+	}, 
+	{
+        "name": "Isa",
+        "iconUrl": "images/isadart.jpg",
+        "message": "At home in Monterrey!",
+        "lat_long": [
+          25.621047, -100.37898
         ]
     }
 ]
