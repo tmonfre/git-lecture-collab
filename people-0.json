@@ -15,6 +15,14 @@
     ]
   },
   {
+    "name": "Jordan",
+    "iconUrl": "images/jordan.JPG",
+    "message": "in midland, tx!",
+    "lat_long": [
+      31.9973, -102.0779
+    ]
+  },
+  {
     "name": "Archita",
     "iconUrl": "images/archita.jpg",
     "message": "In my living room lol!",
