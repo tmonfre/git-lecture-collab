@@ -55,5 +55,14 @@
     "lat_long": [
       "37.316770", "-122.036300"
     ]
-  }]
+  }
+  { 
+    "name": "Irene",
+    "iconUrl": "images/irene.jpg",
+    "message": "Tibet!",
+    "lat_long": [
+      30.1534,
+      88.7879
+    ]
+  }
 ]
