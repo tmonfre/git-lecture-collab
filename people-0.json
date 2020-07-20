@@ -91,6 +91,15 @@
       30.1534,
       88.7879
     ]
-  }
+  },
+   {
+    "name": "Isabella",
+    "iconUrl": "images/isadart.jpg",
+    "message": "Monterrey!",
+    "lat_long": [
+      25.621047,
+      -100.379030
+    ]
+  },
 ]
 
