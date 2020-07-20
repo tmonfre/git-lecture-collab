@@ -3,10 +3,7 @@
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "message": "Come visit me in Costa Rica!",
-    "lat_long": [
-      9.6660971,
-      -85.0621176
-    ]
+    "lat_long": [9.6660971, -85.0621176]
   },
   {
     "name": "Tim",
@@ -18,12 +15,54 @@
     ]
   },
   {
+<<<<<<< HEAD
     "name": "Alex Hamel",
     "iconUrl": "images/alex_facebook.jpg",
     "message": "Chilling in Vermont!",
     "lat_long": [
       44.489893,
       -73.030644
+=======
+    "name": "Archita",
+    "iconUrl": "images/archita.jpg",
+    "message": "In my living room lol!",
+    "lat_long": [
+      45.5051,
+      -122.6750
+    ]
+  },
+  {
+    "name": "David",
+    "iconUrl": "images/davidkantor.jpg",
+    "message": "Hello everyone!",
+    "lat_long": [
+      40.666328,
+      -73.553253
+    ]
+  },
+  {
+    "name": "Jack Keane",
+    "iconUrl": "images/jkeane.jpg",
+    "message": "Hello world",
+    "lat_long": [39.640259, -106.370872],
+    "year": "'22"
+  },
+  {
+    "name": "claire",
+    "iconUrl": "images/claire.jpg",
+    "message": "claire is in hanover!",
+    "lat_long": [
+      43.702,
+      -72.289
+    ]
+  },
+  {
+    "name": "Santosh Sivakumar",
+    "iconUrl": "images/santosh-picture.jpeg",
+    "message": "Hi everyone!",
+    "lat_long": [
+      "37.316770", "-122.036300"
+>>>>>>> origin
     ]
   }
 ]

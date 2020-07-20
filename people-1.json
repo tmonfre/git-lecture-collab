@@ -6,5 +6,37 @@
         "lat_long": [
           44.572105, -88.119310
         ]
+    },
+    {
+      "name": "Donia",
+      "iconUrl": "images/donia.jpg",
+      "message": "in Hanover!",
+      "lat_long": [
+        43.7022928, -72.2895353
+      ]
+    },
+    {
+      "name": "Jason",
+      "iconUrl": "images/jason.jpg",
+      "message": "Bay Area",
+      "lat_long": [
+        37.45322, -122.18322
+      ]
+  }, 
+    {
+      "name": "Garrett",
+      "iconUrl": "images/garrettJ.jpeg",
+      "message": "In Hanover!",
+      "lat_long": [
+        43.7022928, -72.2895353
+      ]
+  	},
+  	{
+        "name": "Garrett Scott",
+        "iconUrl": "images/garrettscott.jpeg",
+        "message": "In Hanover",
+        "lat_long": [
+          43.7022222, -72.29
+        ]
     }
 ]
