@@ -16,5 +16,13 @@
       37.2320967,
       -118.8578716
     ]
+  },
+  {
+    "name": "Jordan",
+    "iconUrl": "images/jordan.JPG",
+    "message": "in midland, tx!",
+    "lat_long": [
+      31.9973, -102.0779
+    ]
   }
 ]
