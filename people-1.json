@@ -6,5 +6,13 @@
         "lat_long": [
           44.572105, -88.119310
         ]
-    }
+    },
+    {
+      "name": "Hanlin",
+      "iconUrl": "images/mocha.jpg",
+      "message": "this is my cat",
+      "lat_long": [
+        37.546366, -121.93592
+      ]
+  }
 ]
