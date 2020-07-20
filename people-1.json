@@ -6,5 +6,7 @@
         "lat_long": [
           44.572105, -88.119310
         ]
-    }
+    },
+    {                                                                                                  "name": "Esme",                                                                                 "iconUrl": "images/esme.jpg",                                                                   "message": "At home in NY!",                                                                    "lat_long": [                                                                                            40.7128, -74.0060                                                                      ]
+     }
 ]
