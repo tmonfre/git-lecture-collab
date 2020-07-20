@@ -23,6 +23,24 @@
     ]
   },
   {
+    "name": "Archita",
+    "iconUrl": "images/archita.jpg",
+    "message": "In my living room lol!",
+    "lat_long": [
+      45.5051,
+      -122.6750
+    ]
+  },
+  {
+    "name": "David",
+    "iconUrl": "images/davidkantor.jpg",
+    "message": "Hello everyone!",
+    "lat_long": [
+      40.666328,
+      -73.553253
+    ]
+  },
+  {
     "name": "Jack Keane",
     "iconUrl": "images/jkeane.jpg",
     "message": "Hello world",
