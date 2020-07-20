@@ -3,10 +3,7 @@
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "message": "Come visit me in Costa Rica!",
-    "lat_long": [
-      9.6660971,
-      -85.0621176
-    ]
+    "lat_long": [9.6660971, -85.0621176]
   },
   {
     "name": "Tim",
@@ -26,5 +23,12 @@
       40.666328,
       -73.553253
     ]
+  },
+  {
+    "name": "Jack Keane",
+    "iconUrl": "images/jkeane.jpg",
+    "message": "Hello world",
+    "lat_long": [39.640259, -106.370872],
+    "year": "'22"
   }
 ]
