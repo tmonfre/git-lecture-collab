@@ -16,5 +16,14 @@
       37.2320967,
       -118.8578716
     ]
+  },
+  {
+    "name": "Archita",
+    "iconUrl": "images/archita.jpg",
+    "message": "In my living room lol!",
+    "lat_long": [
+      45.5051,
+      -122.6750
+    ]
   }
 ]
