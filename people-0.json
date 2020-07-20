@@ -65,6 +65,15 @@
       "37.316770", "-122.036300"
     ]
   },
+
+  {
+    "name": "Kimberley R",
+    "iconUrl": "images/kimr.jpg",
+    "message": "Love this city!",
+    "lat_long": [
+      "40.712776", "-74.005974"
+    ]
+  },
   { 
     "name": "Irene",
     "iconUrl": "images/irene.jpg",
