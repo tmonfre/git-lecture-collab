@@ -15,14 +15,14 @@
     ]
   },
   {
-<<<<<<< HEAD
     "name": "Alex Hamel",
     "iconUrl": "images/alex_facebook.jpg",
     "message": "Chilling in Vermont!",
     "lat_long": [
       44.489893,
       -73.030644
-=======
+    ]
+  },
     "name": "Archita",
     "iconUrl": "images/archita.jpg",
     "message": "In my living room lol!",
@@ -62,7 +62,6 @@
     "message": "Hi everyone!",
     "lat_long": [
       "37.316770", "-122.036300"
->>>>>>> origin
     ]
   },
   { 
