@@ -39,4 +39,12 @@
           43.7022222, -72.29
         ]
     }
+    ,{
+      "name": "Eddie Ma",
+      "iconUrl": "images/eddie.jpg",
+      "message": "In Chicago",
+      "lat_long": [
+        41.736671, -88.103317
+      ]
+  }
 ]
