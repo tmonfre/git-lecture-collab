@@ -8,6 +8,14 @@
         ]
     },
     {
+      "name": "Donia",
+      "iconUrl": "images/donia.jpg",
+      "message": "in Hanover!",
+      "lat_long": [
+        43.7022928, -72.2895353
+      ]
+    },
+    {
       "name": "Jason",
       "iconUrl": "images/jason.jpg",
       "message": "Bay Area",
