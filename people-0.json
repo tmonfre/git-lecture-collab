@@ -17,4 +17,13 @@
       -118.8578716
     ]
   }
+{
+    "name": "claire",
+    "iconUrl": "images/claire.jpg",
+    "message": "claire is in hanover!",
+    "lat_long": [
+      43.702,
+      -72.289
+    ]
+  }
 ]
