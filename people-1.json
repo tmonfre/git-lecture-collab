@@ -1,10 +1,10 @@
 [
     {
-        "name": "Thomas",
-        "iconUrl": "images/thomas.jpg",
-        "message": "At home in Wisconsin!",
+        "name": "James",
+        "iconUrl": "images/james.jpg",
+        "message": "At home in Long Island!",
         "lat_long": [
-          44.572105, -88.119310
+          40.589040, -73.625410
         ]
     },
     {
