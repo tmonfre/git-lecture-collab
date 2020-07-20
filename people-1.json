@@ -8,6 +8,14 @@
         ]
     },
     {
+        "name": "Clay",
+        "iconUrl": "images/washer.jpg",
+        "message": "At home!",
+        "lat_long": [
+          33.572105, -112.119310
+        ]
+    },
+    {
       "name": "Donia",
       "iconUrl": "images/donia.jpg",
       "message": "in Hanover!",
