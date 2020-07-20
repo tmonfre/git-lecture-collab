@@ -6,5 +6,13 @@
         "lat_long": [
           44.572105, -88.119310
         ]
-    }
+    },
+    {
+      "name": "Donia",
+      "iconUrl": "images/donia.jpg",
+      "message": "in Hanover!",
+      "lat_long": [
+        43.7022928, -72.2895353
+      ]
+  }
 ]
