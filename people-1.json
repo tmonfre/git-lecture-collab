@@ -30,5 +30,13 @@
       "lat_long": [
         43.7022928, -72.2895353
       ]
+  	},
+  	{
+        "name": "Garrett Scott",
+        "iconUrl": "images/garrettscott.jpeg",
+        "message": "In Hanover",
+        "lat_long": [
+          43.7022222, -72.29
+        ]
     }
 ]

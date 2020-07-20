@@ -38,5 +38,22 @@
     "message": "Hello world",
     "lat_long": [39.640259, -106.370872],
     "year": "'22"
+  },
+  {
+    "name": "claire",
+    "iconUrl": "images/claire.jpg",
+    "message": "claire is in hanover!",
+    "lat_long": [
+      43.702,
+      -72.289
+    ]
+  },
+  {
+    "name": "Santosh Sivakumar",
+    "iconUrl": "images/santosh-picture.jpeg",
+    "message": "Hi everyone!",
+    "lat_long": [
+      "37.316770", "-122.036300"
+    ]
   }
 ]
