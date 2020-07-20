@@ -14,5 +14,13 @@
       "lat_long": [
         43.7022928, -72.2895353
       ]
+    },
+    {
+      "name": "Jason",
+      "iconUrl": "images/jason.jpg",
+      "message": "Bay Area",
+      "lat_long": [
+        37.45322, -122.18322
+      ]
   }
 ]
