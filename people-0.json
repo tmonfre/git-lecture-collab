@@ -15,6 +15,15 @@
     ]
   },
   {
+    "name": "Nick",
+    "iconUrl": "images/froggy.jpg",
+    "message": "Concord, MA!",
+    "lat_long": [
+      42.460, 
+      -71.3489
+    ]
+  },
+  {
     "name": "Alex Hamel",
     "iconUrl": "images/alex_facebook.jpg",
     "message": "Chilling in Vermont!",
@@ -82,6 +91,6 @@
       30.1534,
       88.7879
     ]
-  },
+  }
 ]
 
