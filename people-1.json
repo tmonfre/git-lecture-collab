@@ -46,5 +46,13 @@
         "lat_long": [
           43.7022222, -72.29
         ]
+    },
+    {
+      "name": "Kathy",
+      "iconUrl": "images/IMG_0506.jpg",
+      "message": "chillin",
+      "lat_long": [
+        "33.173930", "-96.879800"
+      ]
     }
 ]
